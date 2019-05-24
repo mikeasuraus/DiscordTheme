@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Satisfy');
+@import url('https://fonts.googleapis.com/css?family=Shadows+Into+Light');
 @import url('https://monstrousdev.github.io/themes/addons/user-tags.css');
 @import url('https://tropix126.github.io/BetterDiscordStuff/blockBetterDocs.css');
 ::selection {background:var(--main-color-faded) !important;}
@@ -1037,7 +1037,7 @@ body #app-mount .channel-2QD9_O.selected-1HYmZZ a {
     width:50%;
 }
 .users-i_3-kL {
-    background:rgba(0,0,0,0.5);
+    background:rgba(0,0,0,0.75);
     width:50%;
 }
 .wrapper-pZmgj4 {
@@ -1047,7 +1047,7 @@ body #app-mount .channel-2QD9_O.selected-1HYmZZ a {
 /*4.b. Account Deatils Container*/
 .container-2Thooq {background:transparent !important;}
 .accountDetails-3k9g4n .username {
-	font-family:'Satisfy';
+	font-family:'Shadows+Into+Light';
 	font-weight:800 !important;
 	color:var(--hover-color);
 }
